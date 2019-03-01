@@ -6,7 +6,7 @@ Platform:
 
 ### Korte omschrijving van de game
 ...
-
+Een game waarin je rondloopt en demonen verslaat met behulp van je dieren companions.
 ---
 #### Producten Werkproces 1
 | Product  | Link |
