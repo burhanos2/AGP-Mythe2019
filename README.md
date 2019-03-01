@@ -1,8 +1,8 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## [Momotaro's Adventure VR]
+Project team:[Burhan, Suryani, Peter, Eva, Jarno, Zoë, Julian]
 
 Platform:
-[jullie platfom]
+[Unity VR]
 
 ### Korte omschrijving van de game
 ...
@@ -13,6 +13,7 @@ Platform:
 | ------ |  ------ |
 | Link naar online product backlog (Trello) | [Backlog]
 | Logboek (pdf)                             | [Logboek]
+| planning (excel)                          | [Planning]
 | Game concept doc (pdf)                    | [GameDesignDoc]
 |<img width=500/>|<img width=300/>|
    
@@ -34,11 +35,12 @@ Platform:
 | Asset planning (pdf)                  | [AssetPlanning]
 |<img width=500/>|<img width=300/>|
 
-   [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
-   [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
-   [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
-   [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
-   [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
-   [Prototype]: <https://www.mijnmytheprototype.nl>
-   [AssetPlanning]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/AssetPlanning.pdf>
+   [Backlog]: <https://trello.com/b/VT0uoeJM/mythe-2019>
+   [Logboek]: <https://docs.google.com/document/d/1EoKJJty9BjKZ_pu5wYTT19XJyXYi-wToz17anmZAzPk/edit?usp=sharing>
+   [GameDesignDoc]: <https://docs.google.com/document/d/17ER6B3Fm0ybOkmIlWt_ZOkBVah0pHE4YJ0qSnwXq_uQ/edit?usp=sharing>
+   [RetrospectiveVerslagen]: <>
+   [ReviewVerslagen]: <>
+   [Prototype]: <>
+   [AssetPlanning]: <>
+   [Planning]:<https://docs.google.com/spreadsheets/d/1_zRVyoXA1WeNb7KhkyEzdgbTiOJEj9Fb4Gk868I7V2E/edit?usp=sharing>
    
