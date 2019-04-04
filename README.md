@@ -11,29 +11,31 @@ Een game waarin je rondloopt en demonen verslaat met behulp van je dieren compan
 #### Producten Werkproces 1
 | Product  | Link |
 | ------ |  ------ |
-| Link naar online product backlog (Trello) | [Backlog]
-| Logboek (pdf)                             | [Logboek]
-| planning (excel)                          | [Planning]
-| Game concept doc (pdf)                    | [GameDesignDoc]
+| Link naar online product backlog (Trello)  | [Backlog]
+| Logboek (pdf)   *                          | [Logboek]
+| planning (excel)                           | [Planning]
+| Game concept doc (pdf)       *             | [GameDesignDoc]
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 2
 | Product  | Link |
 | ------ |  ------ |
-| Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]
-| Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
-| Logboek (pdf)                                             | [Logboek]
+| Online Product backlog & Sprint backlog + DoD (Trello)     | [Backlog]
+| Sprint retrospective verslagen (pdf)   *                   | [RetrospectiveVerslagen]
+| Logboek (pdf)*                                             | [Logboek]
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 3
 | Product  | Link |
 | ------ |  ------ |
-| Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]
-| Sprint review verslagen (pdf)         | [ReviewVerslagen]
-| Link naar online speelbaar prototype  | [Prototype]
-| Logboek (pdf)                         | [Logboek]
-| Asset planning (pdf)                  | [AssetPlanning]
+| Sprint retrospective verslagen (pdf)*  | [RetrospectiveVerslagen]
+| Sprint review verslagen (pdf)  *       | [ReviewVerslagen]
+| Link naar online speelbaar prototype   | [Prototype] (coming soon)
+| Logboek (pdf)*                         | [Logboek]
+| Asset planning (pdf) *                 | [AssetPlanning]
 |<img width=500/>|<img width=300/>|
+
+*in plaats van pdf is het gedaan met google docs vanwege gemak redenen, hopelijk wordt dit geaccepteerd(zo niet maken we er wel pdf van op aanvraag).
 
    [Backlog]: <https://trello.com/b/VT0uoeJM/mythe-2019>
    [Logboek]: <https://docs.google.com/document/d/1EoKJJty9BjKZ_pu5wYTT19XJyXYi-wToz17anmZAzPk/edit?usp=sharing>
@@ -42,6 +44,6 @@ Een game waarin je rondloopt en demonen verslaat met behulp van je dieren compan
    [RetrospectiveVerslagen]: <https://docs.google.com/document/d/1QLC_862irOxajstDIsAKz-oezVYTzDLEYR2cpA8y0bA/edit?usp=sharing>
    [ReviewVerslagen]: <https://docs.google.com/document/d/1F8xegblQ5gOP7ZFj07y4ksvNaoj4VaEC8b7OnNNkLvQ/edit?usp=sharing>
    [Prototype]: <>
-   [AssetPlanning]: <>
+   [AssetPlanning]: <https://docs.google.com/document/d/1L7TNzla5y1OkvcPUuSEOSrRVYISm_li05BZ05xMo3as/edit?usp=sharing>
    
    
